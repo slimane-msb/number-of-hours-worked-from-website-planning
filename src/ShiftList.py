@@ -50,54 +50,6 @@ class ShiftList:
 
 
 
-# probloems:
-# get today and old oct, remove duplicates
-
-#
-# s1 = ShiftList()
-#
-# sh1 = Shift("12/12/2000")
-# sh1.add_start("18:30")
-# sh1.add_end("00:30")
-# sh1.add_title("plange")
-#
-# sh2 = Shift("12/12/2001")
-# sh2.add_start("19:30")
-# sh2.add_end("00:30")
-# sh2.add_title("plange")
-#
-# s1.add_shift(sh1)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-#
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-#
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-#
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-#
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-# s1.add_shift(sh2)
-#
-# print(s1.__repr__())
-# print(s1.get_number_total_heur())
-# #
-# s1.save_in_csv()
-
-
 
 
 
